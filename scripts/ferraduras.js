@@ -9,7 +9,7 @@ function calc() {
 
    let qntdFerraduras =  cavalos * 4;
 
-   resultContainer.innerHTML = `<p class="text-center mt-4 fs-5">São necessarias ${qntdFerraduras}  ferraduras ao total</p>`;
+   resultContainer.innerHTML = `<p class="text-center mt-4 fs-5">São necessárias ${qntdFerraduras}  ferraduras ao total</p>`;
 }
 
 
